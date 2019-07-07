@@ -601,6 +601,9 @@ figure.highlight:hover .copy {
 .todo-list .task-item .label.normal {
   background: #37eaa0;
 }
+.todo-list .task-item .label.finish {
+  background: #c0c0c0;
+}
 .todo-list .task-item .text {
   position: relative;
   top: -2px;
