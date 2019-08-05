@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
@@ -20,9 +19,4 @@
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3"
   }
-=======
-  "name": "hexo-theme-icarus",
-  "version": "2.3.0",
-  "private": true
->>>>>>> 30066ee8d894c9337dbb71c511fa78903fb19967
 }
