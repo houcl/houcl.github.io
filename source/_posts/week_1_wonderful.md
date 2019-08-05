@@ -1,0 +1,247 @@
+---
+category: 线下课
+tags:
+  - 周任务
+  - 班级
+  - 破冰日
+  - 训练日
+  - 小组
+  - 作业
+date: 2019-07-07
+title: 第一周线下活动
+thumbnail: https://first-class.oss-cn-beijing.aliyuncs.com/42011562492549_.pic_hd.jpg
+top: 21
+toc: true
+---
+
+## 精彩瞬间
+
+<!-- more -->
+<div class="justified-gallery"> 
+    <img src="https://first-class.oss-cn-beijing.aliyuncs.com/41281562471884_.pic_hd.jpg">
+    <img src="https://first-class.oss-cn-beijing.aliyuncs.com/41781562459048_.pic_hd.jpg">
+    <img src="https://first-class.oss-cn-beijing.aliyuncs.com/5821562476811_.pic_hd.jpg">
+    <img src="https://first-class.oss-cn-beijing.aliyuncs.com/5781562476726_.pic_hd.jpg">
+    <img src="https://first-class.oss-cn-beijing.aliyuncs.com/41421562475582_.pic_hd.jpg">
+    <img src="https://first-class.oss-cn-beijing.aliyuncs.com/6181562490143_.pic_hd.jpg">
+    <img src="https://first-class.oss-cn-beijing.aliyuncs.com/6171562490137_.pic_hd.jpg">
+    <img src="https://first-class.oss-cn-beijing.aliyuncs.com/43871562493988_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43881562493989_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43941562493996_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42051562492763_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43891562493992_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42061562492871_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42951562493602_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42071562492890_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42011562492549_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43951562493998_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43111562493630_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42031562492648_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43761562493975_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42281562493518_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43341562493694_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43931562493995_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43101562493629_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42151562493498_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42931562493600_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42961562493603_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43831562493985_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42121562493496_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43711562493960_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43131562493632_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42751562493569_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42511562493546_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42291562493519_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43011562493608_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43271562493685_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43641562493951_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42531562493547_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43141562493633_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42881562493580_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43841562493986_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43851562493987_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42941562493601_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43431562493917_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43461562493920_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42321562493520_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43301562493689_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42501562493545_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43261562493679_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42721562493564_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43451562493919_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43251562493674_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42841562493577_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43691562493959_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42421562493536_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42591562493553_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43681562493958_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42271562493517_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43701562493960_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43751562493974_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42141562493498_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43291562493689_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42201562493505_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43281562493686_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42371562493529_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42391562493531_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43511562493935_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42521562493546_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42301562493519_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42781562493570_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42411562493536_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43001562493607_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43361562493698_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42541562493548_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42871562493579_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43791562493980_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42091562493469_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43781562493979_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43521562493936_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43441562493918_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42991562493606_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43371562493699_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43311562493691_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42681562493562_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43151562493635_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42621562493554_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43731562493972_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43741562493973_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43911562493993_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43471562493932_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42811562493572_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42671562493561_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42791562493571_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42771562493570_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42331562493526_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43121562493631_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43421562493916_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43721562493972_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42911562493599_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42211562493506_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42711562493563_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43501562493934_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42631562493554_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42901562493581_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43921562493994_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42741562493568_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42761562493569_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43181562493637_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43491562493933_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42401562493531_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42431562493537_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42451562493538_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42441562493538_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42891562493581_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42221562493506_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43351562493695_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43821562493983_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42261562493517_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42981562493604_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42921562493599_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43901562493992_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43531562493937_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42491562493540_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42861562493579_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43021562493608_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42311562493519_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42821562493573_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43861562493987_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43571562493943_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43811562493982_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42461562493538_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42351562493528_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43651562493952_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42361562493529_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43171562493636_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43191562493638_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43221562493639_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42851562493577_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43031562493609_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42831562493576_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42701562493563_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42691562493563_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42551562493548_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42561562493549_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42641562493555_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43321562493692_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42971562493603_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43601562493949_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42381562493530_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43331562493693_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42661562493561_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42731562493564_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43051562493610_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42251562493508_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43581562493944_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42111562493495_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43591562493945_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43771562493978_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43391562493701_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43661562493956_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43541562493938_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42231562493507_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42241562493508_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43551562493942_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43241562493668_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43381562493700_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43041562493610_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43481562493932_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42341562493527_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43231562493663_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42471562493539_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42131562493497_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42101562493472_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43801562493981_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43161562493636_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43671562493956_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43211562493638_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43561562493942_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42801562493571_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43401562493701_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42161562493499_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43411562493702_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42651562493556_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43621562493950_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42481562493539_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42601562493553_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43631562493950_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43611562493949_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42181562493504_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42191562493505_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43201562493638_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42571562493549_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42611562493553_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42171562493499_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42581562493552_.pic_hd.jpg">
+
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/43981562495112_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/44071562495139_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/44111562495145_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/44141562495148_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/44221562495158_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/44261562495162_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/44311562495167_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42581562493552_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42581562493552_.pic_hd.jpg">
+<img src="https://first-class.oss-cn-beijing.aliyuncs.com/42581562493552_.pic_hd.jpg">
+</div>
+
+## Yes, And
+感谢三位学长的精彩课程
+
+<div class="justified-gallery"> 
+    <img src="https://first-class.oss-cn-beijing.aliyuncs.com/43061562493611_.pic_hd.jpg">
+    <img src="https://first-class.oss-cn-beijing.aliyuncs.com/43081562493628_.pic_hd.jpg">
+    <img src="https://first-class.oss-cn-beijing.aliyuncs.com/43091562493629_.pic_hd.jpg">
+</div>
+
+
+<!-- {% raw %}
+<div>
+<iframe src="//player.bilibili.com/player.html?aid=57733099&cid=100772083&page=1" scrolling="no" border="0" frameborder="no" framespacing="0"></iframe>
+</div>
+{% endraw %} -->
+
+## 活动资料
+[点击下载“资料003：《得到大学即兴剧破冰课（外发版）》”](/download/资料003：《得到大学即兴剧破冰课（外发版）》.pdf)
+[点击下载“7.7线下活动”](/download/7.7线下活动.pptx)
